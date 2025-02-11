@@ -1,4 +1,4 @@
-
+//
 const input = require('sync-input')
 
 // import input from "sync-input";
